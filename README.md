@@ -45,3 +45,16 @@ DataVisualization
 ├── DataVisualization.ipynb
 └── README.md
 
+
+---
+
+## Purpose of This Repository
+
+The goal of this project is to:
+
+- Practice data visualization concepts
+- Learn how to use Matplotlib
+- Build foundational skills for Data Analysis
+- Document my learning progress in Data Science
+
+---
