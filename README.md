@@ -42,7 +42,9 @@ These examples help understand how to represent data visually.
 ## Repository Structure
 DataVisualization
 │
+
 ├── DataVisualization.ipynb
+
 └── README.md
 
 
